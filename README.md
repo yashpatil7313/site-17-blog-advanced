@@ -40,7 +40,6 @@ site-17-blog-advanced/
 
 ## 📸 Preview
 
-> ⚠️ Make sure `preview.png` is uploaded in the same folder
 
 ![Blog Website Preview](preview17.png)
 
